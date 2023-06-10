@@ -13,6 +13,8 @@ The _YelpChi_ contains reviews on hotels and restaurants in Chicago, which can b
 Introduced by [Ding et al. in Interactive anomaly detection on attributed networks](https://dl.acm.org/doi/abs/10.1145/3289600.3290964)
 
 - BlogCatalog
-
+BlogCatalog is a blog sharing website. The bloggers in blogcatalog can follow each other forming a social network. Users are associated with a list of tags to describe themselves and their blogs, which are regarded as node attributes.
 - Flickr
+Flickr is an image hosting and sharing website. Similar to BlogCatalog, users can follow each other and form a social network. Node attributes of users are deﬁned by their speciﬁed tags that reﬂect their interests.
 - ACM
+ACM is a citation network where each paper is regarded as a node on the network, and the links are the citation relations among diﬀerent papers. The attributes of each paper are generated from the paper abstract.
