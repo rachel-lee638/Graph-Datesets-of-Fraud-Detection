@@ -8,6 +8,16 @@ There are three different relations between nodes in Amazon: (1)__U-P-U__: users
 * YelpChi
 The _YelpChi_ contains reviews on hotels and restaurants in Chicago, which can be divided into spam and legit, and regards reviews as nodes. Meanwhile, the connection between nodes can also be defined as three types: (1)__R-U-R__: reviews posted by the common users; (2)__R-T-R__: reviews given the same star rating under the same item; (3)__R-S-R__: reviews issued by the same month under the identical item.
 ## Single-relation Graph Datasets
+
+### Organic Fraud
+
+- Elliptic 
+The [Elliptic Data Set](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set) is a transaction graph collected from the Bitcoin blockchain. A node in the graph represents a transaction, an edge can be viewed as a flow of Bitcoins between one transaction and the other. Each node has 166 features and has been labeled as being created by a "licit", "illicit" or "unknown" entity.
+- Flickr
+Flickr is an image hosting and sharing website. Similar to BlogCatalog, users can follow each other and form a social network. Node attributes of users are deﬁned by their speciﬁed tags that reﬂect their interests.
+- ACM
+ACM is a citation network where each paper is regarded as a node on the network, and the links are the citation relations among diﬀerent papers. The attributes of each paper are generated from the paper abstract.
+
 ### Injection Anomaly
 
 Introduced by [Ding et al. in Interactive anomaly detection on attributed networks](https://dl.acm.org/doi/abs/10.1145/3289600.3290964)
@@ -25,3 +35,4 @@ ACM is a citation network where each paper is regarded as a node on the network,
 | ---  | --- | --- | --- | --- | --- | --- | --- |
 | Amazon  | 单元格 |单元格|单元格|单元格|单元格|
 | YelpChi  | 单元格 |单元格|单元格|单元格|单元格|
+| Elliptic | 203,769 | 234,355 | 166 | -- | -- | 4,545 | 2.23% |
