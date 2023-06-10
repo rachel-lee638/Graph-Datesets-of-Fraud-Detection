@@ -18,3 +18,8 @@ BlogCatalog is a blog sharing website. The bloggers in blogcatalog can follow ea
 Flickr is an image hosting and sharing website. Similar to BlogCatalog, users can follow each other and form a social network. Node attributes of users are deﬁned by their speciﬁed tags that reﬂect their interests.
 - ACM
 ACM is a citation network where each paper is regarded as a node on the network, and the links are the citation relations among diﬀerent papers. The attributes of each paper are generated from the paper abstract.
+
+# The statistics of the datasets
+|  Dataset   | #Nodes | #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
+| 单元格  | 单元格 |单元格|单元格|
+| 单元格  | 单元格 |单元格|单元格|
