@@ -8,3 +8,8 @@ There are three different relations between nodes in Amazon: (1)__U-P-U__: users
 * YelpChi
 The _YelpChi_ contains reviews on hotels and restaurants in Chicago, which can be divided into spam and legit, and regards reviews as nodes. Meanwhile, the connection between nodes can also be defined as three types: (1)__R-U-R__: reviews posted by the common users; (2)__R-T-R__: reviews given the same star rating under the same item; (3)__R-S-R__: reviews issued by the same month under the identical item.
 ## Single-relation Graph Datasets
+1.Injection Anomaly
+[Interactive anomaly detection on attributed networks](https://dl.acm.org/doi/abs/10.1145/3289600.3290964)
+- BlogCatalog
+- Flickr
+- ACM
