@@ -23,5 +23,5 @@ ACM is a citation network where each paper is regarded as a node on the network,
 
 |  Dataset | #Nodes | #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
 | ---  | --- | --- | --- | --- | --- | --- | --- |
-| 单元格  | 单元格 |单元格|单元格|
-| 单元格  | 单元格 |单元格|单元格|
+| Amazon  | 单元格 |单元格|单元格|单元格|单元格|
+| YelpChi  | 单元格 |单元格|单元格|单元格|单元格|
