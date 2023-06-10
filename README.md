@@ -13,5 +13,6 @@ The _YelpChi_ contains reviews on hotels and restaurants in Chicago, which can b
 Introduced by [Ding et al. in Interactive anomaly detection on attributed networks](https://dl.acm.org/doi/abs/10.1145/3289600.3290964)
 
 - BlogCatalog
+
 - Flickr
 - ACM
