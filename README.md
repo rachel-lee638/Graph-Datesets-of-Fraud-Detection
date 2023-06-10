@@ -45,7 +45,7 @@ ACM is a citation network where each paper is regarded as a node on the network,
 | Amazon  | 11,944 |U-P-U <br> U-V-U <br> U-S-U <br> ALL|175,608 <br> 3,566,479 <br> 1,036,737 <br> 4,398,392| 25 | 821 | 6.87% |
 | YelpChi  | 45,954 |R-U-R <br> R-T-R <br> R-S-R <br> ALL|49,315 <br> 573,616 <br> 3,402,743 <br> 3,846,979| 32 | 6,677 | 14.53% |
 | Elliptic | 203,769 | - | 234,355 | 166 | 4,545 | 2.23% |
-| T-Finance |  | - |  | 10 |  |  |
+| T-Finance | 39,357 | - | 21,222,543 | 10 | - | 4.58% |
 | Disney | 203,769 | - | 234,355 | 166 | 4,545 | 2.23% |
 | Books | 203,769 | - | 234,355 | 166 | 4,545 | 2.23% |
 | Enron | 203,769 | - | 234,355 | 166 | 4,545 | 2.23% |
