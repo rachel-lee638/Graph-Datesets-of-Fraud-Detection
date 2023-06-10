@@ -38,6 +38,6 @@ ACM is a citation network where each paper is regarded as a node on the network,
 
 |  Dataset | #Nodes | Relation| #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Amazon  | 11,944 |U-P-U <br> U-V-U <br> U-S-U ALL|单元格|单元格|单元格|
-| YelpChi  | 45,954 |单元格|单元格|单元格|单元格|
+| Amazon  | 11,944 |U-P-U <br> U-V-U <br> U-S-U <br> ALL|175,608 <br> 3,566,479 <br> 1,036,737 <br> 4,398,392| - | - | 821 | 6.87% |
+| YelpChi  | 45,954 |R-U-R <br> R-T-R <br> R-S-R <br> ALL|49,315 <br> 573,616 <br> 3,402,743 <br> 3,846,979| - | - | 6,677 | 14.53% |
 | Elliptic | 203,769 | - | 234,355 | 166 | - | - | 4,545 | 2.23% |
