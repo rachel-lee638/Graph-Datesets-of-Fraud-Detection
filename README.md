@@ -1,5 +1,6 @@
 # Graph-Datesets-of-Fraud-Detection
 This repository is the compilation of fraud detection datasets, including multi-relation and single-relation graph datasets.
+Alternative download source in Google Drive: (https://drive.google.com/drive/u/1/folders/1CQF0clK8Ngf65SdfTIVCEi3iF5azqd6g)
 ## Multi-relation Graph Datasets
 Introduced by [Dou et al. in Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters](https://dl.acm.org/doi/abs/10.1145/3340531.3411903)
 * Amazon
@@ -36,7 +37,7 @@ ACM is a citation network where each paper is regarded as a node on the network,
 # The statistics of the datasets
 
 |  Dataset | #Nodes | Relation| #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Amazon  | 11,944 |U-P-U <br\> U-V-U <br\> U-S-U ALL|单元格|单元格|单元格|
 | YelpChi  | 45,954 |单元格|单元格|单元格|单元格|
 | Elliptic | 203,769 | - | 234,355 | 166 | - | - | 4,545 | 2.23% |
