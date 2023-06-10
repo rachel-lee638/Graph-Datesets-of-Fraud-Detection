@@ -20,6 +20,8 @@ Flickr is an image hosting and sharing website. Similar to BlogCatalog, users ca
 ACM is a citation network where each paper is regarded as a node on the network, and the links are the citation relations among diﬀerent papers. The attributes of each paper are generated from the paper abstract.
 
 # The statistics of the datasets
-|  Dataset   | #Nodes | #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
+
+|  Dataset | #Nodes | #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
+| ---  | --- | --- | --- | --- | --- | --- | --- |
 | 单元格  | 单元格 |单元格|单元格|
 | 单元格  | 单元格 |单元格|单元格|
