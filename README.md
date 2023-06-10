@@ -13,14 +13,18 @@ The _YelpChi_ contains reviews on hotels and restaurants in Chicago, which can b
 ### Organic Fraud
 
 - Elliptic 
+
 The [Elliptic dataset](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set) is a transaction graph collected from the Bitcoin blockchain. A node in the graph represents a transaction, an edge can be viewed as a flow of Bitcoins between one transaction and the other. Each node has 166 features and has been labeled as being created by a "licit", "illicit" or "unknown" entity.
 - T-Finance
+
 The [T-Finance dataset](https://proceedings.mlr.press/v162/tang22b.html) aims to ﬁnd the fraud accounts in transaction networks. The nodes are unique anonymized accounts related to registration days, logging activities and interaction frequency. The edges in the graph represent two accounts that have transaction records. Human experts annotate nodes as anomalies if they fall into categories like fraud, money laundering and online gambling.
 - Disney
+
 Flickr is an image hosting and sharing website. Similar to BlogCatalog, users can follow each other and form a social network. Node attributes of users are deﬁned by their speciﬁed tags that reﬂect their interests.
 - Books
+
 ACM is a citation network where each paper is regarded as a node on the network, and the links are the citation relations among diﬀerent papers. The attributes of each paper are generated from the paper abstract.
--Enron
+- Enron
 
 
 ### Injection Anomaly
@@ -38,6 +42,6 @@ ACM is a citation network where each paper is regarded as a node on the network,
 
 |  Dataset | #Nodes | Relation| #Edges | #Feat | #Con. | #Strct. | #Outliers | Outlier Ratio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Amazon  | 11,944 |U-P-U <br> U-V-U <br> U-S-U <br> ALL|175,608 <br> 3,566,479 <br> 1,036,737 <br> 4,398,392| - | - | 821 | 6.87% |
-| YelpChi  | 45,954 |R-U-R <br> R-T-R <br> R-S-R <br> ALL|49,315 <br> 573,616 <br> 3,402,743 <br> 3,846,979| - | - | 6,677 | 14.53% |
+| Amazon  | 11,944 |U-P-U <br> U-V-U <br> U-S-U <br> ALL|175,608 <br> 3,566,479 <br> 1,036,737 <br> 4,398,392| 25 | - | - | 821 | 6.87% |
+| YelpChi  | 45,954 |R-U-R <br> R-T-R <br> R-S-R <br> ALL|49,315 <br> 573,616 <br> 3,402,743 <br> 3,846,979| 32 | - | - | 6,677 | 14.53% |
 | Elliptic | 203,769 | - | 234,355 | 166 | - | - | 4,545 | 2.23% |
